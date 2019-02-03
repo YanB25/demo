@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/yanb25/demo/add"
+	"github.com/YanB25/demo/add"
 )
 
 func main() {
