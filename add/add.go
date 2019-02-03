@@ -15,5 +15,5 @@ type Cat struct{}
 
 func (cat *Cat) Say() string {
 	// implement me.
-	return ""
+	return "cat"
 }
