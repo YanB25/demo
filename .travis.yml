@@ -3,4 +3,6 @@ go:
   - "1.11"
 script:
   - make test
+after_success:
+  - make deploy
   
